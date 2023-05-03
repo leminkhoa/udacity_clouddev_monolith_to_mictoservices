@@ -71,4 +71,3 @@ spec:
               name: env-config
               key: URL          
       restartPolicy: Always
- 
