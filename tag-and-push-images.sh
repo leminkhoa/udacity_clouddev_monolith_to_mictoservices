@@ -5,5 +5,5 @@ function tag_and_push () {
 
 tag_and_push 'udagram-api-feed:latest'
 tag_and_push 'udagram-api-user:latest'
-tag_and_push 'udagram-frontend:local'
+tag_and_push 'udagram-frontend:remote-v4'
 tag_and_push 'reverseproxy:latest'

@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: leminkhoa/udagram-frontend:remote-v2
+        image: leminkhoa/udagram-frontend:remote-v4
         ports:
         - containerPort: 80
         resources:

@@ -18,7 +18,7 @@ spec:
       - name: reverseproxy
         image: leminkhoa/reverseproxy:latest
         ports:
-        - containerPort: 80
+        - containerPort: 8080
         resources:
           requests:
             cpu: "250m"
